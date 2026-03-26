@@ -14,8 +14,8 @@ To write a function to find the peek of stack using array.
 
 ## Program:
 ```c program
-Developed by Dharshini M
-212222060044
+Developed by TARUN E A
+212222060272
 int stack[100],top; 
 void peek() 
 { 
